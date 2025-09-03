@@ -2,7 +2,9 @@
 
 A curated collection of practical cybersecurity challenges originally created for my Telegram channel, [**@w2hack**](https://www.t.me/w2hack) (12k+ subscribers). This repository archives the tasks, puzzles, and mini-CTFs designed to test and sharpen real-world defensive and offensive security skills.
 
-These challenges were used to run contests _(some with prizes!)_ and engage the community with hands-on, interactive learning covering a wide range of critical security domains. Wow! let's GO!
+These challenges were used to run contests _(some with prizes!)_ and engage the community with hands-on, interactive learning covering a wide range of critical security domains. 
+
+**Wow! let's GO!**
 
 <img width="960" height="720" alt="image" src="https://github.com/user-attachments/assets/4212cee5-2566-40f6-9db3-1f62fecb7daf" />
 
