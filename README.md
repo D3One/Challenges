@@ -25,7 +25,7 @@ The tasks are divided into several key areas of cybersecurity:
 
 *   **🔍 Log Analysis & Incident Response:** Parse server logs, build a timeline of attack (Attack Timeline), and identify Indicators of Compromise (IOCs).
 *   **⚙️ Configuration Security Audits:** Find security misconfigurations in critical files for services, servers, and applications.
-*   **👨‍💻 Application Security (AppSec):** Hunt for vulnerabilities in snippets of application code (e.g., SQL Injection, XSS, Logic Flaws).
+*   **👨‍💻 Application Security (AppSec):** Hunt for vulnerabilities in snippets of application code (e.g., SQL Injection, XSS, Logic Flaws at Python, Golang, Java, C++, etc).
 *   **☸️ Kubernetes (K8s) Security:** Analyze YAML manifests and cluster configurations to find insecure settings that could lead to compromise.
 *   **☁️ Cloud Security (AWS IAM, etc.):** Decipher Identity and Access Management policies to spot overly permissive roles and potential privilege escalation paths.
 *   **🐳 Container Security:** Review Dockerfiles and Docker Compose files to identify best practice violations and security hardening opportunities.
